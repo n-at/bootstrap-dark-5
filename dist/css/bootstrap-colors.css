@@ -202,15 +202,15 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bs-blue-100: #d7dee5;
-    --bs-blue-200: #afbdcc;
-    --bs-blue-300: #879cb2;
-    --bs-blue-400: #5f7b99;
-    --bs-blue-500: #375a7f;
-    --bs-blue-600: #2c4866;
-    --bs-blue-700: #21364c;
-    --bs-blue-800: #162433;
-    --bs-blue-900: #0b1219;
+    --bs-blue-100: #d8e3ee;
+    --bs-blue-200: #b2c7dd;
+    --bs-blue-300: #8baacc;
+    --bs-blue-400: #658ebb;
+    --bs-blue-500: #3e72aa;
+    --bs-blue-600: #325b88;
+    --bs-blue-700: #254466;
+    --bs-blue-800: #192e44;
+    --bs-blue-900: #0c1722;
     --bs-indigo-100: #e1d8f1;
     --bs-indigo-200: #c2b0e2;
     --bs-indigo-300: #a489d4;
@@ -292,15 +292,15 @@
     --bs-cyan-700: #0e616e;
     --bs-cyan-800: #09414a;
     --bs-cyan-900: #052025;
-    --bs-blue-100-rgb: 215, 222, 229;
-    --bs-blue-200-rgb: 175, 189, 204;
-    --bs-blue-300-rgb: 135, 156, 178;
-    --bs-blue-400-rgb: 95, 123, 153;
-    --bs-blue-500-rgb: 55, 90, 127;
-    --bs-blue-600-rgb: 44, 72, 102;
-    --bs-blue-700-rgb: 33, 54, 76;
-    --bs-blue-800-rgb: 22, 36, 51;
-    --bs-blue-900-rgb: 11, 18, 25;
+    --bs-blue-100-rgb: 216, 227, 238;
+    --bs-blue-200-rgb: 178, 199, 221;
+    --bs-blue-300-rgb: 139, 170, 204;
+    --bs-blue-400-rgb: 101, 142, 187;
+    --bs-blue-500-rgb: 62, 114, 170;
+    --bs-blue-600-rgb: 50, 91, 136;
+    --bs-blue-700-rgb: 37, 68, 102;
+    --bs-blue-800-rgb: 25, 46, 68;
+    --bs-blue-900-rgb: 12, 23, 34;
     --bs-indigo-100-rgb: 225, 216, 241;
     --bs-indigo-200-rgb: 194, 176, 226;
     --bs-indigo-300-rgb: 164, 137, 212;
