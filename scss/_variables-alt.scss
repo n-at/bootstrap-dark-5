@@ -39,16 +39,16 @@ $grays-alt: (
 ) !default;
 // fusv-enable
 
-$blue-alt:    #407ebf !default;
-$indigo-alt:  #673ab7 !default;  //~~
-$purple-alt:  #654ea3 !default;  // Panatone CotY 2018
-$pink-alt:    #e83e8c !default;
-$red-alt:     #e74c3c !default;  //**
-$orange-alt:  #fd7e14 !default;
-$yellow-alt:  #f39c12 !default;  //**
-$green-alt:   #00bc8c !default;  //**
-$teal-alt:    #45b5aa !default;  // Panatone CotY 2010
-$cyan-alt:    #17a2b8 !default;
+$blue-alt:    hsl(211, 50%, 50%) !default;
+$indigo-alt:  hsl(262, 52%, 50%) !default; 
+$purple-alt:  hsl(256, 35%, 50%) !default;  
+$pink-alt:    hsl(332, 79%, 50%) !default;
+$red-alt:     hsl(6, 78%, 50%) !default;  
+$orange-alt:  hsl(27, 98%, 50%) !default;
+$yellow-alt:  hsl(37, 90%, 50%) !default;  
+$green-alt:   hsl(148, 50%, 50%) !default; 
+$teal-alt:    hsl(174, 45%, 50%) !default;  
+$cyan-alt:    hsl(188, 78%, 50%) !default;
 
 $colors-alt: (
   "blue":       $blue-alt,
@@ -68,7 +68,7 @@ $colors-alt: (
 ) !default;
 
 $primary-alt:       $blue-alt !default;
-$secondary-alt:     $gray-400-alt !default;
+$secondary-alt:     $gray-500-alt !default;
 $success-alt:       $green-alt !default;
 $info-alt:          $cyan-alt !default;
 $warning-alt:       $yellow-alt !default;
